@@ -17,6 +17,6 @@ I am a frontend developer with expertise in HTML, CSS, and JavaScript. I love cr
 ## Contact Me
 - Email: m.saad.bd.71@gmail.com
 - Facebook: [facebook.com/Saad Ahmed](https://facebook.com/saad.ahmed776)
-- Twitter: [@saadahmed](https://twitter.com/m_saad.72)
+- Twitter: [@saad ahmed](https://twitter.com/m_saad_71)
 
 Feel free to reach out to me for any frontend development opportunities or collaborations!
