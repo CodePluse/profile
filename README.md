@@ -1,5 +1,8 @@
 # Hello, I'm Saad Ahmed! 👋
 
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
+
 ## About Me
 I am a frontend developer with expertise in HTML, CSS, and JavaScript. I love creating user-friendly and visually appealing websites. 
 
