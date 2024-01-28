@@ -1,5 +1,6 @@
 # Hello, I'm Saad Ahmed! 👋
 
+<img src="411650636_860038956126910_602632073532998394_n.jpg" alt="This is a photo of Saad Ahmed" style="border-radius: 50%;">
 
 ## About Me
 I am a frontend developer with expertise in HTML, CSS, and JavaScript. I love creating user-friendly and visually appealing websites. 
