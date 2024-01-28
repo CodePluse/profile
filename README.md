@@ -1,6 +1,6 @@
 # Hello, I'm Saad Ahmed! 👋
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+![avatar](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D860039026126903%26set%3Da.114504910680322&show_text=true&width=500
 )
 
 ## About Me
