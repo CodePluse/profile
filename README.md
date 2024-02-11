@@ -1,4 +1,4 @@
-<img src="411650636_860038956126910_602632073532998394_n.jpg" alt="This is a photo of Saad Ahmed" style="border-radius: 50px;">
+<img src="thunb.jpg" alt="This is a photo of Saad Ahmed" style="border-radius: 50px;">
 
 <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
