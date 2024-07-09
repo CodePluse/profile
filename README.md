@@ -20,7 +20,7 @@
 - My Portfolio [GentleZen](https://gentlezen.vercel.app/)
 
 - ⚡ Fun fact **I don't know about my self. Everyone says I'm funny 😊.**
-
+[![trophy](https://github-profile-trophy.vercel.app/?codepluse=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_saad_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_saad_71" height="30" width="40" /></a>
